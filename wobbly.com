@@ -9,7 +9,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "",
+      "video": "https://drive.google.com/uc?id=1PfS_jDHQjl1WDx2_DGwd_xaKmeBZzzul",
       "privacy": "https://janikpirocha.github.io/privacy.html",
       
       "spancount": 1,
